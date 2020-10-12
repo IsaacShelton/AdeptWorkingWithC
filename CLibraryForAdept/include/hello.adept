@@ -1,0 +1,6 @@
+
+// Necessary archive file to link to
+foreign "../libhello.a"
+
+// Definitions
+foreign hello() void

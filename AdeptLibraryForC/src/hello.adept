@@ -1,0 +1,6 @@
+
+import basics
+
+hello :: external func() void {
+    printf("Hello World, from library!\n")
+}

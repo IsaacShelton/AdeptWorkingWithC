@@ -1,0 +1,6 @@
+
+import "../include/hello.adept"
+
+main :: func {
+    hello()
+}

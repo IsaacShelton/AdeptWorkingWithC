@@ -1,0 +1,6 @@
+
+import basics
+
+hello :: func {
+    printf("Hello World, from library!\n")
+}
